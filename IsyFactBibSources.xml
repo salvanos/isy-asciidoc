@@ -1,0 +1,1212 @@
+<?xml version="1.0"?>
+<b:Sources SelectedStyle=""
+	xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography"
+	xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+	<b:Source>
+		<b:Tag>XÖV</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>XÖV-Handbuch</b:Title>
+		<b:URL>http://www.bit.bund.de/cln_161/nn_1202296/BIT/DE/Shared/Publikationen/X_C3_96V-Handbuch__V1.0,templateId=raw,property=publicationFile.pdf/X%C3%96V-Handbuch_V1.pdf
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{97AA01A0-665C-4265-AEF7-92851DFB22AC}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>X509</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Internet X.509 Public Key Infrastructure</b:Title>
+		<b:URL>http://tools.ietf.org/html/rfc3280</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{61CA873E-183C-4DB6-BFD7-E14E1F99A772}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>WSITools</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Test-Tool-Set für WS-I Konformität</b:Title>
+		<b:URL>http://www.ws-i.org/deliverables/workinggroup.aspx?wg=testingtools
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{A49B5623-7260-4C90-B5B4-8DFCED1709EC}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>WSI</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>WS-I Basic Profile Version 1.0</b:Title>
+		<b:URL>http://www.ws-i.org/Profiles/BasicProfile-1.0-2004-04-16.html
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{0F6DE592-36D5-41CC-A7B9-731454C508A9}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>WindowBuilder</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:URL>http://www.eclipse.org/windowbuilder/download.php</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{DE2F79D8-A063-438F-8040-575B1810A3D3}</b:Guid>
+		<b:Title>WindowBuilder Pro Download-Seite</b:Title>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>WikiJSF</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>JavaServer Faces</b:Title>
+		<b:URL>http://de.wikipedia.org/wiki/JavaServer_Faces</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{CE1C73D2-B5E0-4449-A558-29EB8F54B5AC}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>WebStartMavenPlugin</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:URL>http://mojo.codehaus.org/webstart/webstart-maven-plugin/
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{F34BDA10-C610-4D3E-BFFF-451A5DF84FED}</b:Guid>
+		<b:Title>Webstart Maven Plugin</b:Title>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Webservices</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Webservices in der IsyFact Anwendungslandschaft</b:Title>
+		<b:URL>20_Bausteine/Service-Gateway/Webservices_Anwendungslandschaft.pdf
+		</b:URL>
+		<b:Type>Erweiterung</b:Type>
+		<b:Guid>{C3C51EE1-86E4-457A-A50E-19B66C494CF1}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>WebGUIDetailkonzept</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Detailkonzept Komponente Web-GUI</b:Title>
+		<b:URL>10_Blaupausen/technische_Architektur/Detailkonzept_Komponente_Web_GUI.pdf
+		</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{D80D2647-9CF0-4651-8D36-943B4DADDEBB}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>VorlageRegister</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Beispielimplementierung "Vorlage-Register"</b:Title>
+		<b:URL>Wird auf Anfrage bereitgestellt</b:URL>
+		<b:Type>auf Anfrage</b:Type>
+		<b:Guid>{0096A333-D082-48D6-B564-DFF883A78272}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>VorlageGA</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Beispielimplementierung "Vorlage-Geschäftsanwendung"
+		</b:Title>
+		<b:URL>Wird auf Anfrage bereitgestellt</b:URL>
+		<b:Type>auf Anfrage</b:Type>
+		<b:Guid>{F20C318F-2EB0-4070-8223-1823B42A1B5C}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>ÜberwachungKonfigKonzept</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Konzept Überwachung und Konfiguration</b:Title>
+		<b:URL>20_Bausteine\Ueberwachung_Konfiguration\Konzept_Ueberwachung-Konfiguration.pdf
+		</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{A898069E-3E10-41EA-8EFC-639371BC5412}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>TomahawkDataScroller</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Die Dokumentation der Tomahawk "DataScroller" Komponente
+		</b:Title>
+		<b:URL>http://myfaces.apache.org/tomahawk-project/tomahawk20/tagdoc/t_dataScroller.html
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{2DDB1521-91D8-4BC1-B9C5-2765F039A0C7}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Tomahawk</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Apache JSF Komponentenbibliothek</b:Title>
+		<b:URL>http://myfaces.apache.org/tomahawk/index.html</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{30954CE9-7DA9-416B-9463-BAD4BFF5C2D0}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>TemplatesDBSchemaVersionierung</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Templates für die Installation eines Datenbankschemas
+		</b:Title>
+		<b:URL>10_Blaupausen\technische_Architektur\Templates-DB-Schema-Versionierung
+		</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{7C8DFF8A-5E43-4DA0-AA10-908DEF6DA9D8}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>SystemdokumentationMGW</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Systemdokumentation Mail-Gateway</b:Title>
+		<b:URL>20_Bausteine/Mail-Gateway/Systemdokumentation_Mail-Gateway.pdf
+		</b:URL>
+		<b:Type>Erweiterung</b:Type>
+		<b:Guid>{D13D50CC-448D-4772-988E-DDE23FD6D087}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>SWF</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Spring Web Flow Dokumentation</b:Title>
+		<b:URL>http://static.springsource.org/spring-webflow/docs/2.3.x/reference/html/
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{D568FE5C-4849-46B5-B709-D8D0E7874ABF}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>SUNRI</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>SUN Referenzimplementierung JSF</b:Title>
+		<b:URL>http://java.sun.com/javaee/javaserverfaces/</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{599738C3-58BB-4816-847E-B4118A9FEEA1}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Styleguide</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Styleguide</b:Title>
+		<b:URL>20_Bausteine\Styleguide\Styleguide.pdf</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{8B016D21-377C-4E82-8A3D-041CA54AE38F}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>SSL</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Transport Layer Security</b:Title>
+		<b:URL>http://de.wikipedia.org/wiki/Transport_Layer_Security</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{0A3B5DAB-3F15-46E8-BA6E-C922F6AE3E2C}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>SpringLDAPNutzungskonzept</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Nutzungskonzept Spring-LDAP</b:Title>
+		<b:URL>20_Bausteine\LDAP-Zugriffe\Nutzungskonzept_Spring_LDAP.pdf
+		</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{2C7C7B82-57D5-4A31-AC6F-7E6444EBA6C8}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>SpringLDAP</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Spring LDAP</b:Title>
+		<b:URL>http://www.springframework.org/ldap</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{8FFBDFE4-B46A-4CE1-AD52-160EEB5FFA2A}</b:Guid>
+		<b:YearAccessed>2014</b:YearAccessed>
+		<b:MonthAccessed>12</b:MonthAccessed>
+		<b:DayAccessed>10</b:DayAccessed>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Spring</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Spring Framework Reference Documentation</b:Title>
+		<b:URL>http://docs.spring.io/spring-framework/docs/3.1.x/spring-framework-reference/html/
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{5F8DE847-AC94-4A74-8547-A9081E3A8118}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Spooling</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Konzept Spooling</b:Title>
+		<b:URL>20_Bausteine\Spooling\Konzept_Spooling.pdf</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{8C3B71E6-75BF-4140-9584-EAB6D6651FBB}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>SicherheitNutzerdok</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Nutzerdokumentation Sicherheit</b:Title>
+		<b:URL>20_Bausteine\Sicherheitskomponente\Nutzerdokumentation_Sicherheit.pdf
+		</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{2548DBCB-87E0-443C-8CF3-8A3911FA7F16}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Services</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Detailkonzept Komponente Service</b:Title>
+		<b:URL>10_Blaupausen\technische_Architektur\Detailkonzept_Komponente_Service.pdf
+		</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{22BC2B9F-2810-441D-8C8A-40C9B5696191}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>ServicekommunikationKonzept</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Grundlagen der Servicekommunikation innerhalb der Plattform
+		</b:Title>
+		<b:URL>10_Blaupausen\Integrationsplattform\Grundlagen_interne_Servicekommunikation.pdf
+		</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{18C147FC-E63C-43C2-9379-FADC1311B4F0}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>ServiceGatewaySystementwurf</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Systemdokumentation Service-Gateway</b:Title>
+		<b:URL>20_Bausteine/Service-Gateway/Systemdokumentation_Service-Gateway.pdf
+		</b:URL>
+		<b:Type>Erweiterung</b:Type>
+		<b:Guid>{62050EF0-E470-49D8-B22B-8A6E503AEF93}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>ServiceDetailkonzept</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Detailkonzept Komponente Service</b:Title>
+		<b:URL>10_Blaupausen\technische_Architektur\Detailkonzept_Komponente_Service.pdf
+		</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{518C2F1B-5553-4DD2-9D58-BC85084D5C6E}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>RPM</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>RPM Guide</b:Title>
+		<b:URL>http://docs.fedoraproject.org/drafts/rpm-guide-en/</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{DCE07B9E-0D58-42F0-8FF0-C798D3450B3F}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>RegelwerkKonzept</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Konzept Regelwerk</b:Title>
+		<b:URL>20_Bausteine\Regelwerk\Konzept_Regelwerk.pdf</b:URL>
+		<b:Type>Erweiterung</b:Type>
+		<b:Guid>{46EE46A5-ED24-46B1-8444-D58CB95D0FD5}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>RegelwerkDroolsDok</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Drools Documentation</b:Title>
+		<b:URL>http://www.jboss.org/drools/documentation</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{458E3E43-CC57-434B-AB00-A8DA026A5BB7}</b:Guid>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>al.</b:Last>
+						<b:First>Mark</b:First>
+						<b:Middle>Proctor et</b:Middle>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>QuasarClient</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Quasar Client Dokumentation</b:Title>
+		<b:URL>10_Blaupausen/technische_Architektur/Quasar_Client</b:URL>
+		<b:Type>auf Anfrage</b:Type>
+		<b:Guid>{188B8A55-33C2-466D-81EE-E1DCFC3F0869}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>ProtokollierungKonzept</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Konzept Protokollierung</b:Title>
+		<b:URL>20_Bausteine\Protokollierung_Protokollrecherche\Konzept_Protokollierung.pdf
+		</b:URL>
+		<b:Type>Erweiterung</b:Type>
+		<b:Guid>{7E337BCF-80FE-4B0B-8438-D67C0C7BED3A}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Programmierkonventionen</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Java Programmierkonventionen</b:Title>
+		<b:URL>40_Methodik\30_Implementierung\Java-Programmierkonventionen.pdf
+		</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{5EE7852F-ECB9-4AE4-AC2C-F8B3B5F0BBFF}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>ProduktKatalog</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>IsyFact Produktkatalog</b:Title>
+		<b:URL>00_Allgemein\Produktkatalog.pdf</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{7928B84E-73C4-40D0-AD40-8C336074F08B}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>PortalKonzept</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Konzept Portal</b:Title>
+		<b:URL>20_Bausteine/Portal/Konzept_Portal.pdf</b:URL>
+		<b:Type>Erweiterung</b:Type>
+		<b:Guid>{2B7E9F4C-C0FA-45F6-A76C-DE0ABA4D7951}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>IsyFactReferenzarchitekturITSystem</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>IsyFact – Referenzarchitektur für IT-Systeme</b:Title>
+		<b:URL>00_Allgemein\IsyFact_Referenzarchitektur-IT-System.pdf</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{5A5B51B2-5122-49ED-B713-A1A7BE119A25}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>IsyFactJQuery</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Paketierte JQuery-Dateien für IsyFact-Anwendungen</b:Title>
+		<b:URL>60_Software\Bibliotheken\web-gui</b:URL>
+		<b:Type>Platzhalter</b:Type>
+		<b:Guid>{B1108BD2-C1E8-43CD-B9E1-558684482BF7}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>IsyFactTutorial</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>IsyFact – Tutorial</b:Title>
+		<b:URL>00_Allgemein\IsyFact-Tutorial.pdf</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{AAC092BB-99D8-4243-B9A7-4254CAD00647}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>IsyFactSystementwurf</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Vorlage für Systementwürfe</b:Title>
+		<b:URL>40_Methodik\20_Systementwurf\IsyFact-Vorlage_Systementwurf.dot
+		</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{CDB11923-4AAF-42BE-B452-7A7EA4B26959}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>IsyFactEinstieg</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>IsyFact-Einstieg</b:Title>
+		<b:URL>00_Allgemein\IsyFact-Einstieg.pdf</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{21474AE5-7AED-47F3-AA94-85A855531822}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>PKCS12</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>PKCS #12: Personal Information Exchange Syntax Standard
+		</b:Title>
+		<b:URL>http://www.rsa.com/rsalabs/node.asp?id=2138</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{BAF47983-DFEC-4F1A-A65C-FF12DA12E67B}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>PatternLayout</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>JavaDoc Dokumentation zum Patternlayout Version 1.2</b:Title>
+		<b:URL>http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/PatternLayout.html
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{E39FA5DA-3700-43B4-8382-0442E799C5D9}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>OWASP10</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>OWASP Top 10 Project</b:Title>
+		<b:URL>https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{A6F9781E-73DD-4AA8-9D4B-3011223078D0}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>OSCI2</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>OSCI-Transport, Version 2.0 Web Services Profiling and
+			Extensions Specification Edition 3
+		</b:Title>
+		<b:URL>http://www.osci.eu/transport/osci20/20100427/OSCI20_WS-ProfilingAndExtensionSpecification_Edition3.pdf
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{426FD855-7B70-443A-AC77-FD8B7D65046F}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>NutzungskonzeptErstellungSGW</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Nutzungskonzept Service-Gateway-Erstellung</b:Title>
+		<b:URL>20_Bausteine/Service-Gateway/Nutzungskonzept_Service-Gateway_Erstellung.pdf
+		</b:URL>
+		<b:Type>Erweiterung</b:Type>
+		<b:Guid>{22BCA62E-1AF9-4A7C-87F8-1695EA7B3B01}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Nutzungskonzept_jBPM</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Nutzungskonzept jBPM</b:Title>
+		<b:URL>20_Bausteine\Workflow\Nutzungskonzept_jBPM.pdf</b:URL>
+		<b:Type>Erweiterung</b:Type>
+		<b:Guid>{F4F2AC1E-84EE-4B63-B07E-0177D8B9D888}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>NutzerDokumentationSGW</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Nutzerdokumentation Service-Gateway</b:Title>
+		<b:URL>20_Bausteine/Service-Gateway/Nutzerdokumentation_Service-Gateway.doc
+		</b:URL>
+		<b:Type>Erweiterung</b:Type>
+		<b:Guid>{5FBB4624-1467-422E-B7CC-DF4025E44115}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>NativeGUIDetailkonzept</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Detailkonzept Komponente Native-GUI</b:Title>
+		<b:URL>10_Blaupausen\technische_Architektur\Detailkonzept_Komponente_Native_GUI.pdf
+		</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{99F32885-EF84-4140-8307-04AE2204B266}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Namenskonventionen</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>IsyFact – Namenskonventionen</b:Title>
+		<b:URL>00_Allgemein\IsyFact-Namenskonventionen.pdf</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{6A823CE7-6326-4559-AFFA-C1EDDDCDEBD0}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>ModelViewPresenter</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:URL>http://www.martinfowler.com/eaaDev/uiArchs.html</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{B8F49079-17CB-4F05-BBA5-D334FD026CC9}</b:Guid>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Fowler</b:Last>
+						<b:First>Martin</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Title>GUI Architectures</b:Title>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>MiGLayout</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:URL>http://www.miglayout.com/</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{63E95D50-6AFB-4230-9754-319CA1F1EE82}</b:Guid>
+		<b:Title>MigLayout - Java Layout Manager</b:Title>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Metro</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Die Metro Webservice-Bibliothek</b:Title>
+		<b:URL>https://metro.dev.java.net/</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{52D57E71-1956-4C17-8E54-A0DF91BAE4C6}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>LSB</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Linux Standard Base</b:Title>
+		<b:URL>http://www.linuxbase.org/</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{F1D7E22B-7B89-4EBB-845B-28817E300404}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>LoggingKonzept</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Konzept Logging</b:Title>
+		<b:URL>20_Bausteine\Logging\Konzept_Logging.pdf</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{D3C8FD2D-9957-48B9-B208-CFDD16D43FBF}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Log4jPerformance</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>log4j Manual - Kapitel Performance</b:Title>
+		<b:URL>http://logging.apache.org/log4j/1.2/manual.html#performance
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{C3A86E8B-E7FF-44CF-AE98-F1F471864EC0}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>KonzeptSchnittstellenSGW</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Konzept Service-Gateway-Schnittstellen</b:Title>
+		<b:URL>20_Bausteine/Service-Gateway/Konzept_Service-Gateway_Schnittstellen.pdf
+		</b:URL>
+		<b:Type>Erweiterung</b:Type>
+		<b:Guid>{EF69731C-B17B-4583-A945-A66F6CFA3C13}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>KMHandbuch</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Konfigurations-Management-Handbuch (INTERN)</b:Title>
+		<b:Guid>{4D3F9C50-C787-47C2-B0D8-30F497BEBC6F}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>JSSE</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>JavaTM Secure Socket Extension (JSSE) Reference Guide for the
+			JavaTM 2 Platform Standard Edition 5
+		</b:Title>
+		<b:URL>http://java.sun.com/j2se/1.5.0/docs/guide/security/jsse/JSSERefGuide.html
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{DB831B93-DA43-4B3B-9A76-1E7BCDDCCE24}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>JPA</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Java Persistence API</b:Title>
+		<b:URL>http://java.sun.com/javaee/overview/faq/persistence.jsp</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{CCFE8790-BAAC-4A64-9F09-4C3C3E2ED94E}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>JMXPatterns</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Design patterns for JMX and application manageability - A
+			guide for Developers
+		</b:Title>
+		<b:URL>http://devresource.hp.com/drc/resources/jmxds/index.jsp</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{CAE105D7-86A3-4478-A505-BD4F6C60F177}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>JMXParam</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Monitoring and Management Using JMX</b:Title>
+		<b:URL>http://java.sun.com/j2se/1.5.0/docs/guide/management/agent.html
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{88234C02-2C5A-4646-BAF1-839AE227B1D0}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>JMXBestPrac</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Java Management Extensions (JMX) - Best Practices</b:Title>
+		<b:URL>http://java.sun.com/javase/technologies/core/mntr-mgmt/javamanagement/best-practices.jsp
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{ACFA7D87-B40B-4891-9A12-741E10E41274}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>JFormDesigner</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:URL>http://www.formdev.com/</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{C431783A-7197-4CB9-8EB2-7739150818EC}</b:Guid>
+		<b:Title>JFormDesigner Homepage</b:Title>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>jBPMHomepage</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>jBPM Homepage</b:Title>
+		<b:URL>http://www.jboss.com/products/jbpm/</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{B7B322C7-2713-4EE9-B046-5CD180935C05}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>ITGS06</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title> IT-Grundschutzkatalog, Baustein B 1.12, Stand 2006</b:Title>
+		<b:URL>https://www.bsi.bund.de/DE/Themen/ITGrundschutz/itgrundschutz_node.html
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{23FFCF6B-A0A6-499D-91AE-89736F2C297F}</b:Guid>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Informationstechnik</b:Last>
+						<b:First>Bundesamt</b:First>
+						<b:Middle>für Sicherheit in der</b:Middle>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>HibernateVererbung</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Hibernate: Implementierung von Vererbung</b:Title>
+		<b:URL>http://www.hibernate.org/hib_docs/v3/reference/en/html/inheritance.html
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{1F991043-695A-405D-9341-76F1ABF5EB53}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>GroupLayout</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:URL>http://download.oracle.com/javase/tutorial/uiswing/layout/group.html
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{275DC5B4-9CDF-4655-A29C-1446526E3F3A}</b:Guid>
+		<b:Title>How to Use GroupLayout</b:Title>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>FormLayout</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:URL>http://www.jgoodies.com/freeware/libraries/forms/</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{AF215DD5-7713-46B9-B8EF-FFED636F1666}</b:Guid>
+		<b:Title>JGoodies FormLayout</b:Title>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>FHS</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Filesystem Hierarchy Standard</b:Title>
+		<b:URL>http://www.pathname.com/fhs/</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{4A632CBB-8EB3-40E5-B1C4-24920AA20DB4}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>FehlerbehandlungKonzept</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Konzept Fehlerbehandlung</b:Title>
+		<b:URL>20_Bausteine\Fehlerbehandlung\Konzept_Fehlerbehandlung.pdf
+		</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{11039E65-6C44-437E-ABD3-52118D71C396}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>FachlicheArchitektur</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Darstellung d. fachlichen Architektur (INTERN)</b:Title>
+		<b:Guid>{71EDEDE2-D3AC-4EE4-9A16-6776026A19BE}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Facelets</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Facelets</b:Title>
+		<b:URL>https://facelets.dev.java.net/</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{8BE89661-F76A-4A60-94A6-428351A54AD4}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Dozer</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Die Dozer Bibliothek</b:Title>
+		<b:URL>http://dozer.sourceforge.net/</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{38CC9C71-B077-4EF0-938E-A674BA36AD51}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>DeploymentKonzept</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Konzept Deployment für IsyFact-Anwendungen</b:Title>
+		<b:URL>30_Plattform\Konzept_Deployment.pdf</b:URL>
+		<b:Type>Erweiterung</b:Type>
+		<b:Guid>{739EB4A1-0DB5-407E-9E33-6419518A38FF}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Deme05</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Zeitmaschine – Temporale Datenhaltung</b:Title>
+		<b:URL>http://www.sigs-datacom.de/fileadmin/user_upload/zeitschriften/js/2003/05/demelt_JS_05_03.pdf
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{42A2D7C7-E02D-49C5-B437-E61A64384FFB}</b:Guid>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Demelt</b:Last>
+						<b:First>Achim</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>DatenzugriffDetailkonzept</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Detailkonzept Komponente Datenzugriff</b:Title>
+		<b:URL>10_Blaupausen\technische_Architektur\Detailkonzept_Komponente_Datenzugriff.pdf
+		</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{60ECF5B3-DC4A-48FA-99D0-67481223DA24}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>CommonEL</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Common Expression Language</b:Title>
+		<b:URL>http://commons.apache.org/el/</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{86F64373-FA0C-4FF3-9DAB-7B19AEA7F604}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Berechtigungskonzept</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Berechtigungskonzept</b:Title>
+		<b:URL>Muss projektspezifisch erstellt werden</b:URL>
+		<b:Type>Platzhalter</b:Type>
+		<b:Guid>{1B62EAC9-2504-4721-8933-FA57BC7E9247}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>BatchDetailkonzept</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Detailkonzept Komponente Batch</b:Title>
+		<b:URL>10_Blaupausen/technische_Architektur/Detailkonzept_Komponente_Batch.pdf
+		</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:Guid>{B4BF251B-488A-47AF-886E-547C5080E9AB}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>ApacheTomcatKonzept</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Konzept Apache Tomcat (INTERN)</b:Title>
+		<b:Guid>{A029EC66-2A41-4F00-9464-860D82DB9C31}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Collections</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Hiberate Documentation: Chapter 6. Collection Mapping
+		</b:Title>
+		<b:URL>http://www.hibernate.org/hib_docs/v3/reference/en/html/collections.html
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{C3BE21C3-1120-4570-A8EF-05ED2F348533}</b:Guid>
+		<b:RefOrder>94</b:RefOrder>
+		<b:YearAccessed>2014</b:YearAccessed>
+		<b:MonthAccessed>12</b:MonthAccessed>
+		<b:DayAccessed>10</b:DayAccessed>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Components</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Hiberate Implementierung von 1:n Assoziationen</b:Title>
+		<b:URL>http://www.hibernate.org/hib_docs/v3/reference/en/html/collections.html
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{37D6C582-2047-4E9E-A4A6-A4333A76C265}</b:Guid>
+		<b:RefOrder>86</b:RefOrder>
+		<b:YearAccessed>2014</b:YearAccessed>
+		<b:MonthAccessed>12</b:MonthAccessed>
+		<b:DayAccessed>10</b:DayAccessed>
+	</b:Source>
+	<b:Source>
+		<b:Tag>AnwendungskernDetailkonzept</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Detailkonzept der Komponente Anwendungskern</b:Title>
+		<b:URL>10_Blaupausen\technische_Architektur\Detailkonzept_Komponente_Anwendungskern.pdf
+		</b:URL>
+		<b:Guid>{F07326DC-511B-40C5-85A2-21DE49E26A4C}</b:Guid>
+		<b:RefOrder>92</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Batch</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Batch-Verarbeitung mit Hibernate</b:Title>
+		<b:URL>http://www.hibernate.org/hib_docs/v3/reference/en/html/batch.html
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{4758BABA-EDC8-4B05-9D5B-D4EC107736E5}</b:Guid>
+		<b:YearAccessed>2014</b:YearAccessed>
+		<b:MonthAccessed>12</b:MonthAccessed>
+		<b:DayAccessed>10</b:DayAccessed>
+		<b:RefOrder>89</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>WindowBuilderEclipse</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:URL>http://googlecode.blogspot.com/2010/12/windowbuilder-becomes-new-open-source.html
+		</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{4AA3258C-491D-4CCC-8F57-CB64FC96E4AD}</b:Guid>
+		<b:Title>Windows Builder Becomes New Open Source Project</b:Title>
+		<b:RefOrder>5</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>VorlageAnwendung</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Beispielimplementierung „Vorlage-Anwendung“</b:Title>
+		<b:URL>Wird auf Anfrage bereitgestellt</b:URL>
+		<b:Type>auf Anfrage</b:Type>
+		<b:Guid>{8220C4F2-E751-4C1F-AB85-1555ECAC42FA}</b:Guid>
+		<b:RefOrder>12</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>BaKi07</b:Tag>
+		<b:SourceType>Book</b:SourceType>
+		<b:Title>Java Persistence with Hibernate</b:Title>
+		<b:Type>extern</b:Type>
+		<b:Guid>{C3761503-4B5D-4740-AAE9-2970384D261D}</b:Guid>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Bauer</b:Last>
+						<b:First>Christian</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>King</b:Last>
+						<b:First>Gavin</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:StandardNumber>ISBN 1-932394-88-5</b:StandardNumber>
+		<b:Year>2007</b:Year>
+		<b:RefOrder>94</b:RefOrder>
+		<b:Publisher>Manning Publications</b:Publisher>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Quasar</b:Tag>
+		<b:SourceType>Book</b:SourceType>
+		<b:Title>Moderne Softwarearchitektur - Umsichtig planen, robust bauen
+			mit Quasar
+		</b:Title>
+		<b:Type>extern</b:Type>
+		<b:Guid>{6173AEB8-1CFC-4D08-99A9-D345FFE8B7B8}</b:Guid>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Siedersleben</b:Last>
+						<b:First>Johannes</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Year>2004</b:Year>
+		<b:RefOrder>35</b:RefOrder>
+		<b:Publisher>d.punkt.verlag</b:Publisher>
+	</b:Source>
+	<b:Source>
+		<b:Tag>iXGuiBuilder</b:Tag>
+		<b:SourceType>ArticleInAPeriodical</b:SourceType>
+		<b:Title>Polierte Oberflächen: Eclipse-GUI-Builder für Swing- und
+			SWT-Rich-Clients
+		</b:Title>
+		<b:URL>S. 88ff</b:URL>
+		<b:Type>extern</b:Type>
+		<b:Guid>{8C610624-F0E2-4FD9-87BA-13C9D146F100}</b:Guid>
+		<b:Year>2009</b:Year>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Steppan</b:Last>
+						<b:First>Bernhard</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:RefOrder>70</b:RefOrder>
+		<b:PeriodicalTitle>iX</b:PeriodicalTitle>
+		<b:Pages>88-92</b:Pages>
+		<b:Volume>2</b:Volume>
+	</b:Source>
+	<b:Source>
+		<b:Tag>IsyFactSystemspezifikation</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Vorlage für Systemspezifikationen</b:Title>
+		<b:URL>40_Methodik\20_Systementwurf\IsyFact-Vorlage_Systemspezifikation.dot
+		</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:RefOrder>69</b:RefOrder>
+		<b:Guid>{FE53B35C-51F6-42FF-BD5F-39F2D68E5667}</b:Guid>
+	</b:Source>
+	<b:Source>
+		<b:Tag>IsyFactReferenzarchitektur</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>IsyFact – Referenzarchitektur</b:Title>
+		<b:URL>00_Allgemein\IsyFact-Referenzarchitektur.pdf</b:URL>
+		<b:Type>Standard</b:Type>
+		<b:SourceType>ElectronicSource</b:SourceType>
+		<b:Guid>{E6091033-6844-4214-9CBD-B41B86F8D91A}</b:Guid>
+		<b:RefOrder>1</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>DGSG</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Guid>{899B9A7C-EE43-46B5-8A05-B7514C3CB9B7}</b:Guid>
+		<b:Title>Oracle: Globalization Support Guide 10g Release 2 (10.2)
+		</b:Title>
+		<b:Year>2005</b:Year>
+		<b:Month>Dezember</b:Month>
+		<b:URL>http://download.oracle.com/docs/cd/B19306_01/server.102/b14225.pdf
+		</b:URL>
+		<b:RefOrder>1</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Transskriptionsregeln</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Guid>{08503F86-CD64-4EF7-AAD2-A9E4BCAAD39F}</b:Guid>
+		<b:Title>Transkriptions-Regeln </b:Title>
+		<b:URL>10_Bausteine/Sonderzeichen/Transkriptionsregeln.xls</b:URL>
+	</b:Source>
+	<b:Source>
+		<b:Tag>XOEVStringLatin</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Guid>{AD811543-F00B-4BEE-A5E4-AAFD336668BA}</b:Guid>
+		<b:Title>Handbuch zur Entwicklung XÖV-konformer IT-Standards (Anhang
+			A)</b:Title>
+		<b:YearAccessed>2014</b:YearAccessed>
+		<b:MonthAccessed>12</b:MonthAccessed>
+		<b:DayAccessed>11</b:DayAccessed>
+		<b:URL>http://www.xoev.de/sixcms/media.php/13/2010-03-02-Handbuch-final.pdf
+		</b:URL>
+	</b:Source>
+	<b:Source>
+		<b:Tag>SLMapping</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Guid>{6630D7DC-1978-4403-9BC9-0A6832AE7E76}</b:Guid>
+		<b:Title>Mapping-Tabelle für die Transformation von
+			String.Latin-Zeichen</b:Title>
+		<b:URL>10_Bausteine/Sonderzeichen/Mappingtabelle.xls</b:URL>
+	</b:Source>
+	<b:Source>
+		<b:Tag>SAGA40</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Guid>{F901F949-D367-4112-B0D3-B5D483948C40}</b:Guid>
+		<b:Title>SAGA Version 4.0 – Standards und Architekturen für
+			E-Government-Anwendungen; Publikation der KBSt;</b:Title>
+		<b:Year>2008</b:Year>
+		<b:Month>März</b:Month>
+		<b:URL>http://www.kbst.bund.de/saga</b:URL>
+		<b:RefOrder>1</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Sun1997</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Guid>{1D49AA11-A57F-406F-8269-AFB34FE6600C}</b:Guid>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Sun</b:Last>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Title>Java Code Conventions.</b:Title>
+		<b:Year>1997</b:Year>
+		<b:URL>http://java.sun.com/docs/codeconv/</b:URL>
+		<b:ProductionCompany> Sun Microsystems, Inc.. </b:ProductionCompany>
+		<b:RefOrder>2</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Ambler1999</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Guid>{6B96D829-651C-4BDD-8942-170289F7DCBE}</b:Guid>
+		<b:Title>Writing Robust Java Code. The AmbySoft Inc. Coding Standards
+			for Java v17.01d</b:Title>
+		<b:Year>1998-1999</b:Year>
+		<b:URL>http://www.ambysoft.com/downloads/javaCodingStandards.pdf
+		</b:URL>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Ambler</b:Last>
+						<b:First>Scott</b:First>
+						<b:Middle>W.</b:Middle>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Publisher>AmbySoft Inc.</b:Publisher>
+		<b:RefOrder>1</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Vermeulen2000</b:Tag>
+		<b:SourceType>Book</b:SourceType>
+		<b:Guid>{5BFEFABB-3DB7-42ED-99A2-E710EB98568A}</b:Guid>
+		<b:Title>The Elements of Java Style</b:Title>
+		<b:Year>2000</b:Year>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Vermeulen</b:Last>
+						<b:First>Allan</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Ambler</b:Last>
+						<b:First>Scott W.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Baumgardner</b:Last>
+						<b:First>Greg</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Metz</b:Last>
+						<b:First>Eldon</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Misfeldt</b:Last>
+						<b:First>Trevor</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Shur</b:Last>
+						<b:First>Jim</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Thomson</b:Last>
+						<b:First>Patrick</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Publisher>Cambridge University</b:Publisher>
+		<b:RefOrder>3</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>NutzungsvorgabenLogging</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Guid>{495191BB-5B81-4A80-ADF3-EA29CDE9F084}</b:Guid>
+		<b:Title>Nutzungsvorgaben Logging</b:Title>
+		<b:URL>20_Bausteine\Logging\Nutzungsvorgaben_Logging.pdf</b:URL>
+	</b:Source>
+	<b:Source>
+		<b:Tag>NutzungsvorgabenLogserver</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Guid>{965E26DC-4A97-48A0-8957-A12080FA836C}</b:Guid>
+		<b:Title>Nutzungsvorgaben Logserver</b:Title>
+		<b:URL>Link wird ergänzt, wenn Dokument fertiggestellt wurde</b:URL>
+	</b:Source>
+	<b:Source>
+		<b:Tag>NutzungskonzeptHTTPServer</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Guid>{74AE69B8-6795-41C0-9AC2-A23A1667D66C}</b:Guid>
+		<b:Title>Nutzungskonzept HTTP Server</b:Title>
+		<b:URL>30_Plattform/Nutzungskonzept_Apache_HTTP_Server.pdf</b:URL>
+	</b:Source>
+	<b:Source>
+		<b:Tag>NutzungskonzeptPlisUtil</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Guid>{7DB012EA-DF57-4186-A9A7-B047175654F7}</b:Guid>
+		<b:Title>Nutzungskonzept PLIS-Util</b:Title>
+		<b:URL>20_Bausteine\Util\Nutzungskonzept_plis-util.pdf</b:URL>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Vorlageanwendung</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Guid>{A13709A3-3B40-4662-9CF2-5434080AEF0C}</b:Guid>
+		<b:URL>https://github.com/IsyFact/IsyFact-Vorlageanwendung</b:URL>
+		<b:Title>IsyFact-Vorlageanwendung "Terminfindung"</b:Title>
+	</b:Source>
+	<b:Source>
+		<b:Tag>NutzungskonzeptRedis</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Guid>{7AC9AED7-E9F6-4FB1-8634-152DD8B37124}</b:Guid>
+		<b:Title>Nutzungskonzept Redis</b:Title>
+		<b:URL>30_Plattform\Nutzungskonzept_Redis.pdf</b:URL>
+		<b:RefOrder>2</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>NutzungskonzeptIsySession</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Guid>{A88E55E6-CE44-4C51-84A0-B4D9A688EABF}</b:Guid>
+		<b:Title>Nutzungskonzept Isy-Session</b:Title>
+		<b:URL>20_Bausteine\Session-Management\Nutzungskonzept_Isy-Session.pdf
+		</b:URL>
+		<b:RefOrder>3</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>KonzeptSessionManagement</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Guid>{D46200DD-E214-48F4-BAF6-F41111922754}</b:Guid>
+		<b:Title>Konzept Session Management</b:Title>
+		<b:URL>20_Bausteine\Session-Management\Konzept_Session_Management.pdf
+		</b:URL>
+		<b:RefOrder>4</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>TomcatNutzungskonzept</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Title>Nutzungskonzept Apache Tomcat</b:Title>
+		<b:URL>30_Plattform\Nutzungskonzept_Apache_Tomcat_8.pdf</b:URL>
+		<b:Type>Erweiterung</b:Type>
+		<b:Guid>{95B2BBB8-E49E-44B8-8B34-7E0FAB8F0F51}</b:Guid>
+		<b:RefOrder>18</b:RefOrder>
+	</b:Source>
+	<b:Source>
+		<b:Tag>Versionierung</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Guid>{8451C79C-2313-4ECF-9F3F-3AC4B923A7AE}</b:Guid>
+		<b:Title>IsyFact - Versionierung</b:Title>
+		<b:URL>00_Allgemein/IsyFact-Versionierung.pdf</b:URL>
+	</b:Source>
+	<b:Source>
+		<b:Tag>KonzeptLoggingInfrastrukturELK</b:Tag>
+		<b:SourceType>DocumentFromInternetSite</b:SourceType>
+		<b:Guid>{4974F400-2B4F-4829-A395-13299DD2562D}</b:Guid>
+		<b:Title>Konzept Logging Infrastruktur ELK</b:Title>
+		<b:URL>30_Plattform\Konzept_Logging-Infrastruktur_ELK.pdf</b:URL>
+	</b:Source>
+
+</b:Sources>
