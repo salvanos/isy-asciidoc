@@ -1,4 +1,4 @@
-package de.bund.bva.isyfact.asciidoc;
+package de.bund.bva.isyfact.asciidoc.exception;
 
 /**
  * 
